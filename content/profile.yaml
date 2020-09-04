@@ -1,0 +1,29 @@
+- profile:
+  initials: SS
+  name: Sambulo Senda
+  email: sambulosendas@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: London, UK
+  relocation: true
+  company: Atomic Studio
+  for_hire: true
+  focus: Learning React 
+  focus_url: https://reactjs.org/
+  about: |
+     I am a Full Stack mobile and web developer based in London, United Kingdom. I currently work for Whitbread and am also a freelancer.
+    
+     My current focus is developing cross-platform mobile apps with React Native for the frontend and node as backend. When it comes to web development, I like working with React JS. 
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - React Native
+  tools:
+    - React
+    - VSCode
+    - Gatsby
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

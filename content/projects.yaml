@@ -1,0 +1,35 @@
+
+
+- name: Netflix Clone App
+  url: https://netflixcloneapp.netlify.app
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Context Api
+   
+  icon: website
+  image: images/project.jpg
+
+- name: Amazon Clone
+  url: https://myamazonclone.netlify.app
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Context Api
+  icon: website
+  image: images/project2.jpg
+
+- name: Youtube Clone
+  url: https://youtubeclones.netlify.app/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Context Api
+  icon: website
+  image: images/project3.jpg
